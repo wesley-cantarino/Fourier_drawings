@@ -1,0 +1,6 @@
+seu-app/
+├── package.json
+├── main.js
+└── index.html
+
+build -w
