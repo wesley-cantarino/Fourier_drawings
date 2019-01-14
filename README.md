@@ -4,11 +4,13 @@ Teste da minha primeira aplicação usando [Electron](https://electronjs.org/).
 
 Usando-se [Electron](https://electronjs.org/) para transformar uma aplicação html, css e javaScript em um aplicativo de desktop. O Electron roda o html no Chromium (projeto open-sourcer do google chrome) junto com node.js.
 
-img do aplicativo de desktop
+<hr>
 
-![](https://github.com/wesley-cantarino/Fourier_drawings/blob/master/img/desktop.jpeg)
+### img do aplicativo de desktop
 
+![](https://github.com/wesley-cantarino/Fourier_drawings/blob/master/img/desktop.jpg)
 
+<hr>
 
 ### Minha aplicação está disponível:
 
